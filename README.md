@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<img width="550px" alt="Md aziz Github Stats"  src="https://github-readme-stats.vercel.app/api?username=developer.aziz899&show_icons=true"/>
+<img width="550px" alt="Md aziz Github Stats"  src="https://github-readme-stats.vercel.app/api?username=abdulaziz899&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=sufian111&card_width=550)](https://github.com/abdulaziz899)
 
