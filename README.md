@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 📑 My Resume:
 
-##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/14ozx1n1mH-UnGf45tmDwFKMDPs0VmXS7/view?usp=sharing)
+##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/19z39cKZDflO_E6eR8SlxOiBO9PeVAx-1/view?usp=sharing)
 
 <br />
 
